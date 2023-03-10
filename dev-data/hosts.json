@@ -1,0 +1,132 @@
+[
+  {
+    "_id": "63fa356041499025e0d623fb",
+    "name": "Hammad Ahmed",
+    "isActive": true,
+    "email": "hammadahmed.engineer@gmail.com",
+    "password": "test1234",
+    "role": "host",
+    "photo": "user-1.jpg"
+  },
+  {
+    "_id": "63fa356041499025e0d623fc",
+    "name": "Waqas Ahmed",
+    "isActive": true,
+    "email": "testwaqas@test.com",
+    "photo": "user-2.jpg",
+    "password": "test1234",
+    "role": "host"
+  },
+  {
+    "_id": "63fa356041499025e0d623fd",
+    "name": "zax max",
+    "isActive": true,
+    "email": "zax@test.com",
+    "photo": "user-3.jpg",
+    "password": "test1234",
+    "role": "host"
+  },
+  {
+    "_id": "63fa356041499025e0d623fe",
+    "name": "Bilal Ahmed",
+    "isActive": true,
+    "email": "testbilal@test.com",
+    "photo": "user-4.jpg",
+    "password": "test1234",
+    "role": "host"
+  },
+  {
+    "_id": "63fa356041499025e0d623ff",
+    "name": "Isamil Shah",
+    "isActive": true,
+    "email": "testismail@test.com",
+    "photo": "user-5.jpg",
+    "password": "test1234",
+    "role": "host"
+  },
+  {
+    "_id": "63fa356041499025e0d62403",
+    "name": "Junaid Akram",
+    "isActive": true,
+    "email": "testjunaid@test.com",
+    "photo": "user-6.jpg",
+    "password": "test1234",
+    "role": "host"
+  },
+  {
+    "_id": "63fa356041499025e0d62402",
+    "name": "Ahmed Ali",
+    "email": "testali@test.com",
+    "isActive": true,
+    "photo": "user-7.jpg",
+    "password": "test1234",
+    "role": "host"
+  },
+  {
+    "_id": "63fa356041499025e0d62404",
+    "name": "Imran Ali",
+    "email": "testimran@test.com",
+    "isActive": true,
+    "photo": "user-8.jpg",
+    "password": "test1234",
+    "role": "host"
+  },
+  {
+    "_id": "63fa356041499025e0d62400",
+    "name": "Adnan Ali",
+    "email": "testadnan@test.com",
+    "isActive": true,
+    "photo": "user-9.jpg",
+    "password": "test1234",
+    "role": "host"
+  },
+  {
+    "_id": "63fa356041499025e0d62401",
+    "name": "Zeeshan Ahmed",
+    "email": "testzeeshan@test.com",
+    "photo": "user-10.jpg",
+    "password": "test1234",
+    "role": "host",
+    "isActive": true
+  },
+  {
+    "_id": "63fb1012b876880be6d2aca7",
+    "name": "Jack Paul",
+    "email": "testjack@test.com",
+    "photo": "user-11.jpg",
+    "password": "test1234",
+    "role": "host",
+    "isActive": true,
+    "slug": "jack-paul"
+  },
+  {
+    "_id": "63fb106f959af495def0cc7d",
+    "name": "Jacob David",
+    "email": "testjcob@test.com",
+    "photo": "user-12.jpg",
+    "password": "test1234",
+    "role": "host",
+    "isActive": true,
+    "slug": "jacob-david"
+  },
+  {
+    "_id": "63fb10b29926db08ef096696",
+    "name": "Bob Zirol",
+    "email": "testbob@test.com",
+    "photo": "user-13.jpg",
+    "password": "test1234",
+    "role": "host",
+    "isActive": true,
+    "slug": "bob-zirol"
+  },
+  {
+    "_id": "63fb10edab57a7cc57f63bbb",
+    "name": "Maxmillian",
+    "email": "testmax@test.com",
+    "photo": "user-14.jpg",
+    "password": "test1234",
+    "role": "host",
+    "isActive": true,
+    "slug": "maxmillian"
+  }
+]

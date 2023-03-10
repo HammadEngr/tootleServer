@@ -1,0 +1,33 @@
+{
+  "name": "tootle",
+  "version": "1.0.0",
+  "description": "booking app",
+  "main": "app.js",
+  "scripts": {
+    "start:dev": "nodemon server.js",
+    "start:prod": "SET NODE_ENV=production&& nodemon server.js"
+  },
+  "author": "Engr.Hammad",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-mongo-sanitize": "^2.2.0",
+    "express-rate-limit": "^6.7.0",
+    "helmet": "^6.0.1",
+    "hpp": "^0.2.3",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.10.0",
+    "nodemailer": "^6.9.1",
+    "slugify": "^1.6.5",
+    "validator": "^13.9.0",
+    "xss": "^1.0.14",
+    "xss-clean": "^0.1.1"
+  }
+}
